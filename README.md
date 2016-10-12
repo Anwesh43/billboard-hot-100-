@@ -19,3 +19,8 @@ The api fetches hot 100 song details like name,artist,rank and image url from bi
       console.log(err)
   })
 ```
+
+###To Install
+```
+    npm install --save billboard-hot-100
+```

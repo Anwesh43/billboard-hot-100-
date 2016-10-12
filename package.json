@@ -1,12 +1,20 @@
 {
   "name": "billboard-hot-100",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Unofficial billboard node api.Get the list of top 100 songs as 100 objects each object has a song name,artist name,rank and image url",
   "main": "index.js",
+  "keywords":[
+    "api",
+    "billboard",
+    "promisify"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "git repository":"https://github.com/Anwesh43/billboard-hot-100-",
+  "repository":{
+      "type":"git",
+      "url":"https://github.com/Anwesh43/billboard-hot-100-"
+  },
   "author": "Anwesh Mishra",
   "license": "ISC",
   "readme":"README.md",
