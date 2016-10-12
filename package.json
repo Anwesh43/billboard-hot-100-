@@ -1,12 +1,16 @@
 {
   "name": "billboard-hot-100",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Unofficial billboard node api.Get the list of hot 100 songs from billboard.com as 100 objects each object has a song name,artist name,rank and image url",
   "main": "index.js",
   "keywords":[
     "api",
     "billboard",
-    "promisify"
+    "promisify",
+    "top",
+    "100",
+    "song",
+    "music"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +21,7 @@
   },
   "author": "Anwesh Mishra",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cheerio": "^0.22.0",
     "q": "^1.4.1",
     "request": "^2.75.0"
