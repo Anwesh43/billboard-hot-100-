@@ -6,8 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "git repository":"https://github.com/Anwesh43/billboard-hot-100-",
   "author": "Anwesh Mishra",
   "license": "ISC",
+  "readme":"README.md",
   "devDependencies": {
     "cheerio": "^0.22.0",
     "q": "^1.4.1",
