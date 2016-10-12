@@ -1,7 +1,7 @@
 {
   "name": "billboard-hot-100",
-  "version": "1.0.2",
-  "description": "Unofficial billboard node api.Get the list of top 100 songs as 100 objects each object has a song name,artist name,rank and image url",
+  "version": "1.0.3",
+  "description": "Unofficial billboard node api.Get the list of hot 100 songs from billboard.com as 100 objects each object has a song name,artist name,rank and image url",
   "main": "index.js",
   "keywords":[
     "api",
@@ -17,7 +17,6 @@
   },
   "author": "Anwesh Mishra",
   "license": "ISC",
-  "readme":"README.md",
   "devDependencies": {
     "cheerio": "^0.22.0",
     "q": "^1.4.1",
